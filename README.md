@@ -1,10 +1,10 @@
 # evam
 
-A new Flutter project.
+This is an application prototype for an organization that deals with electric vehicles. It is not linked to any database as it is just a prototype.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter application project can be started/ran simply by running the main.dart file/method.
 
 A few resources to get you started if this is your first Flutter project:
 
